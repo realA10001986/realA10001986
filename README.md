@@ -2,7 +2,8 @@
 
 <p align="center">
   Firmwares for CircuitSetup/A1001986 movie props
-
+</p>
+<p align="center">
 <a href="https://tcd.out-a-ti.me">TCD</a>
 </p>
 
