@@ -4,21 +4,24 @@
 Firmwares for <a href="https://circuitsetup.us" target=_blank>CircuitSetup</a> & A10001986 movie props
 </p></H1>
 <p align="center">
-<a href="https://tcd.out-a-ti.me" alt="Time Circuits Display"><img src='img/tcd.png'></a>
+<a href="https://tcd.out-a-ti.me"><img src='img/tcd.png' alt="Time Circuits Display"></a>
 </p>
 <p align="center">
-<a href="https://fc.out-a-ti.me" alt="Flux Capacitor"><img src='img/fc.png'></a>
+<a href="https://fc.out-a-ti.me"><img src='img/fc.png' alt="Flux Capacitor"></a>
 </p>
 <p align="center">
-<a href="https://sid.out-a-ti.me" alt="SID"><img src='img/sid.png'></a>
+<a href="https://sid.out-a-ti.me"><img src='img/sid.png' alt="SID"></a>
 </p>
 <p align="center">
-<a href="https://dg.out-a-ti.me" alt="Dash Gauges"><img src='img/dg.png'></a>
+<a href="https://dg.out-a-ti.me"><img src='img/dg.png' alt="Dash Gauges">></a>
 </p>
 <p align="center">
-<a href="https://vsr.out-a-ti.me" alt="VSR"><img src='img/vsr.png'></a>
+<a href="https://vsr.out-a-ti.me"><img src='img/vsr.png' alt="VSR"></a>
 </p>
 <p align="center">
-<a href="https://remote.out-a-ti.me" alt="Remote Control"><img src='img/rem.png'></a>
+<a href="https://remote.out-a-ti.me"><img src='img/rem.png' alt="Remote Control"></a>
+</p>
+<p align="center">
+<a href="https://circuitsetup.us" target=_blank><img src='img/cs.png' alt="CircuitSetup"></a>
 </p>
 
