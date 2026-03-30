@@ -14,7 +14,7 @@ Firmwares for <a href="https://circuitsetup.us" target=_blank>CircuitSetup</a> &
 <a href="https://sid.out-a-ti.me"><img src='img/sid.png' alt="SID"></a>
 </p>
 <p align="center">
-<a href="https://dg.out-a-ti.me"><img src='img/dg.png' alt="Dash Gauges">></a>
+<a href="https://dg.out-a-ti.me"><img src='img/dg.png' alt="Dash Gauges"></a>
 </p>
 <p align="center">
 <a href="https://vsr.out-a-ti.me"><img src='img/vsr.png' alt="VSR"></a>
