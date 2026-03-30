@@ -1,8 +1,9 @@
-![TCD](img/repository-open-graph-template2.png)
-
 <H1><p align="center">
 Firmwares for <a href="https://circuitsetup.us" target=_blank>CircuitSetup</a> & A10001986 movie props
 </p></H1>
+
+![TCD](img/repository-open-graph-template2.png)
+
 <p align="center">
 <a href="https://tcd.out-a-ti.me"><img src='img/tcd.png' alt="Time Circuits Display"></a>
 </p>
