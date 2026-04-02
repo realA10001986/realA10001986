@@ -27,4 +27,4 @@ Firmwares for <a href="https://circuitsetup.us" target=_blank>CircuitSetup</a> &
 </p>
 
 ---
-Also available: [Amiga DSP drivers](https://github.com/realA10001986/AmigaDSP3210)
+Also available: [Amiga DSP 3210 drivers](https://github.com/realA10001986/AmigaDSP3210)
