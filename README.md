@@ -26,5 +26,9 @@ Firmwares for <a href="https://circuitsetup.us" target=_blank>CircuitSetup</a> &
 <a href="https://circuitsetup.us" target=_blank><img src='img/cs.png' alt="CircuitSetup"></a>
 </p>
 
+<p align="center">
+<a href="https://jb.out-a-ti.me"><img src='img/jb.png' alt="Lou's Cafe: Jukebox"></a>
+</p>
+
 ---
 Also available: [Amiga DSP 3210 drivers](https://github.com/realA10001986/AmigaDSP3210)
