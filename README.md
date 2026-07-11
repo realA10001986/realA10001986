@@ -31,4 +31,4 @@ Firmwares for <a href="https://circuitsetup.us" target=_blank>CircuitSetup</a> &
 </p>
 
 ---
-Also available: [Amiga DSP 3210 drivers](https://github.com/realA10001986/AmigaDSP3210)
+Also available: [Amiga DSP 3210 drivers](https://github.com/realA10001986/AmigaDSP3210), [TFC drive switch build instructions](https://tfc.out-a-ti.me), DMX-enabled firmwares for [Time Circuits](https://github.com/realA10001986/Time-Circuits-Display-DMX), [Flux Capacitor](https://github.com/realA10001986/Flux-Capacitor-DMX), [SID](https://github.com/realA10001986/SID-DMX), and [more](https://github.com/realA10001986?tab=repositories).
